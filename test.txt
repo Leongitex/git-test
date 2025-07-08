@@ -10,3 +10,8 @@ file to satging area then we can commit them to repository with this command(git
 6.if we want to add a file and commit it in one moment we can use the "am" commit
 7.with git show we can see the new parts in each commit
 
+branch
+1.we need branch becouse we want to congif or debugging code we dont do it on the main branch 
+2.after we work on another branch we merge it to main branch
+
+
