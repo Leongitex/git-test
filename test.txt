@@ -1,0 +1,8 @@
+hi there
+
+1.git init for the project
+2.the file is in the working directory(our computer)
+3.now we want to add the file to the staging area becouse its untracked and when we add its to satge it 
+will tracked(git add fiel name)
+4.notice + when we want to remove the file from the satge we use this command (git rm --catched fielname)
+5.
