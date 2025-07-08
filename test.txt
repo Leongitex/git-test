@@ -5,4 +5,6 @@ hi there
 3.now we want to add the file to the staging area becouse its untracked and when we add its to satge it 
 will tracked(git add fiel name)
 4.notice + when we want to remove the file from the satge we use this command (git rm --catched fielname)
-5.
+5.when we want to trasfer the file to repository at first we should add all the modified and untracked 
+file to satging area then we can commit them to repository with this command(git commit -m "")
+
