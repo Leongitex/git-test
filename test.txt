@@ -14,4 +14,6 @@ branch
 1.we need branch becouse we want to congif or debugging code we dont do it on the main branch 
 2.after we work on another branch we merge it to main branch
 
+okay new thing here
+
 
