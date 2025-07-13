@@ -20,6 +20,7 @@ okay new thing here
 a)fast-forward
 b)non fast-forward
 
+fast-forward : when we eddit the file int the farie file and then we merge it with the main branch
 
 
 
