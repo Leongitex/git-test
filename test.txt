@@ -16,4 +16,10 @@ branch
 
 okay new thing here
 
+3.when we want to merge a branch to main branch we have 2 types of these -
+a)fast-forward
+b)non fast-forward
+
+
+
 
