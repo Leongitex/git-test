@@ -23,4 +23,8 @@ b)non fast-forward
 fast-forward : when we eddit the file int the farie file and then we merge it with the main branch
 
 
+none fast forward : when we edit the code in 2 branch and then we have 2 situation : 
+with conflict and without conflict 
+
+
 
