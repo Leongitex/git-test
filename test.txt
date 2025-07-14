@@ -26,5 +26,8 @@ fast-forward : when we eddit the file int the farie file and then we merge it wi
 none fast forward : when we edit the code in 2 branch and then we have 2 situation : 
 with conflict and without conflict 
 
+notice 3. git diff -> the chages that u arent commit them and u can see the difference between 
+it and last commit
+
 
 
