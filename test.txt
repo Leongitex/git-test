@@ -35,3 +35,6 @@ when we want to transfer the files in WD to githun we use push
 -u helps u for dont using origin mater so much u can use just git push for the changes in the file
 notice : the email in ur github and vscode should be same 
 
+pull commad
+this command uses for transfer the code from the githun to our local that ur partner or u change the code 
+
