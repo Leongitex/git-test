@@ -38,3 +38,6 @@ notice : the email in ur github and vscode should be same
 pull commad
 this command uses for transfer the code from the githun to our local that ur partner or u change the code 
 
+git fetch
+this command is better than the pull because before merge the code with the main or master branch we can see the chnages and if we want we can add it to the main branch 
+fech > creat origin/master > see the changes > if u want > marge them 
